@@ -1,5 +1,4 @@
-/* General Styles */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
 
 * {
     box-sizing: border-box;
@@ -206,7 +205,7 @@ footer {
 }
 
 /* Responsive Layout */
-@media (max-width: 600px) {
+ (max-width: 600px) {
     main {
         padding: 0 10px;
     }
